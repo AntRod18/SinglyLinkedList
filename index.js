@@ -128,5 +128,16 @@ class SinglyLinkedList{
         }
         return this
     }
-
 }
+
+/* 
+Big O :
+insertion - O(1)
+Removal - It depends... O(1) or O(N)
+Searching - O(N)
+Access - O(N)
+
+Singly Linked List are an excellent alternative to arrays when insertion and 
+deletion at the beginning are required. The idea of a list that contains nodes is the
+foundation for other data structures like Stacks and Queues.
+*/
